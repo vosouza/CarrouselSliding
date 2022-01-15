@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="carrousel_spacing">2dp</dimen>
+    <dimen name="prominent_threshold">72dp</dimen>
+    <dimen name="rounded_corners_radius">8dp</dimen>
+</resources>
